@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1646991234 source:c:\users\iulia.stanciu\desktop\facultate\programare\tic-tac-toe\main.cpp
+	"tictactoe.h"
+	<iostream>
+
+1646991678 c:\users\iulia.stanciu\desktop\facultate\programare\tic-tac-toe\tictactoe.h
+	<string>
+
+1646994349 source:c:\users\iulia.stanciu\desktop\facultate\programare\tic-tac-toe\tictactoe.cpp
+	"tictactoe.h"
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<limits>
+
